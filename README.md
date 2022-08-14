@@ -2,6 +2,10 @@
 This is my portfolio
 
 1 - Contando repetições em uma planilha do excel.
+2 - Sistema de gestão de uma academia de luta (Pandas | Excel como banco de dados)
+
+
+1 - Contando repetições em uma planilha do excel.
   O código foi feito na linguagem Python com o uso da biblioteca Pandas.
   
   Proposta:
