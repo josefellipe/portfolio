@@ -1,5 +1,5 @@
 # Portfolio
-This is my portfolio
+Este é o meu portfólio
 
 1 - Contando repetições em uma planilha do excel.
 2 - Sistema de gestão de uma academia de luta (Pandas | Excel como banco de dados)
@@ -26,4 +26,9 @@ This is my portfolio
     - Criar um sistema para gerenciar as mensalidades, despesas e graduções, além de um controle de alunos ativos.
     
  O que foi feito:
-    - "Projeto em criação"
+    - O sistema conta com 3 planilhas no excel para utilizar como banco de dados. 
+    - Cadastrar os alunos, cada aluno tem sua data de vencimento de mensalidade e valor da mesma, além de seus dados, como nome, faixa, grau...
+    - Pode-se adicionar, editar, consultar ou excluir tanto o cadastro de um aluno quanto um lançamento financeiro, tudo pelo programa.
+    - Lançar recebimentos como a mensalidade ou outros, além de pagamentos de contas, como aluguéis e luz.
+    - As mensalidades são atualizadas automaticamente todo mês no dia do vencimento do aluno e fica como um débito no nome do mesmo.
+    - Na área de consulta financeira pode ser salvo um relatório de determinado mês, onde é mostrado cada gasto ou recebível, além do faturamento líquido.
