@@ -1,5 +1,4 @@
-# Portfolio
-Este é o meu portfólio
+# Projetos com Pandas
 
 1 - Contando repetições em uma planilha do excel.
 2 - Sistema de gestão de uma academia de luta (Pandas | Excel como banco de dados)
